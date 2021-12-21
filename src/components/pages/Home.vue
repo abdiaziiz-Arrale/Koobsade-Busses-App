@@ -51,7 +51,7 @@
 
 </div>
  <div class="px-4">
-<input type="datetime-local" placeholder="Enter your Full Name" class="ring-2 focus:ring-2 w-full rounded-sm h-8" ></div>
+<input type="datetime-local" placeholder="Enter your dATE" class="ring-2 focus:ring-2 w-full rounded-sm h-8" ></div>
 <div class="mt-12 flex items-center justify-center">
     <button class="btnbook"> Book Now</button>
 
