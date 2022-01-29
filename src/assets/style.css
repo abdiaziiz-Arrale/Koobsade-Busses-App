@@ -5,10 +5,10 @@
 
 
 .navs{
-    @apply  hover:bg-cyan-500 py-4 px-4 rounded-sm ;
+    @apply  hover:bg-cyan-500 font-semibold py-4 px-4 rounded-sm ;
 }
 .btn{
-    @apply  hover:bg-white hover:text-black hover:border border-cyan-700  bg-green-600 border text-white tracking-widest py-2 font-serif px-4 rounded-lg;
+    @apply  hover:bg-white  hover:text-black hover:border border-cyan-700  bg-green-600 border text-white tracking-widest py-2 font-serif px-4 rounded-lg;
 }
 .btnsign{
   @apply  hover:bg-white hover:text-black hover:border border-pink-800 font-serif py-2  px-4 rounded-lg text-white tracking-widest bg-rose-400;
